@@ -1,0 +1,7 @@
+../Core/Src/hw/driver/uart.cpp:30:6:bool uartInit()	16	static
+../Core/Src/hw/driver/uart.cpp:36:6:bool uartOpen(uint8_t, uint32_t)	24	static
+../Core/Src/hw/driver/uart.cpp:69:10:uint32_t uartAvailable(uint8_t)	24	static
+../Core/Src/hw/driver/uart.cpp:79:9:uint8_t uartRead(uint8_t)	24	static
+../Core/Src/hw/driver/uart.cpp:91:6:void HAL_UART_RxCpltCallback(UART_HandleTypeDef*)	16	static
+../Core/Src/hw/driver/uart.cpp:101:10:uint32_t uartWrite(uint8_t, uint8_t*, uint32_t)	32	static
+../Core/Src/hw/driver/uart.cpp:116:10:)	284	static
