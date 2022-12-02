@@ -1,0 +1,5 @@
+../Core/Src/hw/driver/flash.cpp:59:6:bool flashInit()	4	static
+../Core/Src/hw/driver/flash.cpp:64:6:bool flashErase(uint32_t, uint32_t)	80	static
+../Core/Src/hw/driver/flash.cpp:150:6:bool flashWrite(uint32_t, uint8_t*, uint32_t)	80	static
+../Core/Src/hw/driver/flash.cpp:226:6:bool flashRead(uint32_t, uint8_t*, uint32_t)	40	static
+../Core/Src/hw/driver/flash.cpp:240:13:bool flashInSector(uint16_t, uint32_t, uint32_t)	48	static
