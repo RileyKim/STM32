@@ -1,0 +1,4 @@
+../Core/Src/bsp/bsp.cpp:17:6:void bspInit()	0	static
+../Core/Src/bsp/bsp.cpp:21:6:void delay(uint32_t)	0	static
+../Core/Src/bsp/bsp.cpp:25:10:uint32_t millis()	0	static
+../Core/Src/bsp/bsp.cpp:30:16:int __io_putchar(int)	16	static
