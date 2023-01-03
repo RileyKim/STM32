@@ -1,0 +1,3 @@
+../Core/Src/logic/Tasks.cpp:22:17:void DebugTask()	8	static
+../Core/Src/logic/Tasks.cpp:39:17:void MainTask()	0	static
+../Core/Src/logic/Tasks.cpp:43:17:void SensingTask()	0	static

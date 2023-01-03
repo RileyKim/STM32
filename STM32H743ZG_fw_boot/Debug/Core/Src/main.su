@@ -1,0 +1,8 @@
+../Core/Src/main.c:633:13:SensingTask	8	static
+../Core/Src/main.c:614:13:DebugTask	0	static
+../Core/Src/main.c:651:13:MainTask	8	static
+../Core/Src/main.c:226:6:SystemClock_Config	128	static,ignoring_inline_asm
+../Core/Src/main.c:128:5:main	40	static,ignoring_inline_asm
+../Core/Src/main.c:596:13:HAL_UART_RxCpltCallback	0	static
+../Core/Src/main.c:670:6:HAL_TIM_PeriodElapsedCallback	0	static
+../Core/Src/main.c:687:6:Error_Handler	0	static,ignoring_inline_asm

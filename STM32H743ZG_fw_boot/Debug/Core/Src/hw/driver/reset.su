@@ -1,0 +1,2 @@
+../Core/Src/hw/driver/reset.cpp:17:6:bool resetInit()	8	static
+../Core/Src/hw/driver/reset.cpp:55:10:uint32_t resetGetCount()	0	static

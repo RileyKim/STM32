@@ -1,0 +1,20 @@
+../Core/Src/hw/driver/cli.cpp:578:6:void cliToUpper(char*)	8	static
+../Core/Src/hw/driver/cli.cpp:637:7:char* cliArgsGetStr(uint8_t)	0	static
+../Core/Src/hw/driver/cli.cpp:653:6:bool cliArgsIsStr(uint8_t, char*)	8	static
+../Core/Src/hw/driver/cli.cpp:621:7:float cliArgsGetFloat(uint8_t)	0	static
+../Core/Src/hw/driver/cli.cpp:605:9:int32_t cliArgsGetData(uint8_t)	0	static
+../Core/Src/hw/driver/cli.cpp:464:6:void cliLineChange(cli_t*, int8_t)	16	static
+../Core/Src/hw/driver/cli.cpp:141:6:bool cliOpen(uint8_t, uint32_t)	8	static
+../Core/Src/hw/driver/cli.cpp:151:6:bool cliOpenLog(uint8_t, uint32_t)	8	static
+../Core/Src/hw/driver/cli.cpp:167:6:bool cliLogClose()	0	static
+../Core/Src/hw/driver/cli.cpp:173:6:void cliShowLog(cli_t*)	24	static
+../Core/Src/hw/driver/cli.cpp:214:10:uint32_t cliAvailable()	0	static
+../Core/Src/hw/driver/cli.cpp:219:9:uint8_t cliRead()	0	static
+../Core/Src/hw/driver/cli.cpp:224:10:uint32_t cliWrite(uint8_t*, uint32_t)	0	static
+../Core/Src/hw/driver/cli.cpp:564:6:)	24	static
+../Core/Src/hw/driver/cli.cpp:710:6:void cliShowList(cli_args_t*)	24	static
+../Core/Src/hw/driver/cli.cpp:727:6:void cliMemoryDump(cli_args_t*)	56	static
+../Core/Src/hw/driver/cli.cpp:199:6:bool cliMain()	48	static
+../Core/Src/hw/driver/cli.cpp:672:6:bool cliKeepLoop()	8	static
+../Core/Src/hw/driver/cli.cpp:687:6:bool cliAdd(const char*, void (*)(cli_args_t*))	16	static
+../Core/Src/hw/driver/cli.cpp:116:6:bool cliInit()	8	static

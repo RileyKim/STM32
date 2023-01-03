@@ -1,0 +1,2 @@
+../Core/Src/logic/ap.cpp:13:6:void apInit()	8	static
+../Core/Src/logic/ap.cpp:24:6:void apMain()	16	static
